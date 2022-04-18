@@ -1,4 +1,4 @@
-# Project: Movie Recommender System Using Machine Learning!
+# Movie Recommender System
 
 ![movie_title](https://user-images.githubusercontent.com/75604769/163835573-52bbb215-2ca0-48ad-b610-57a9aae4750a.jpg)
 
