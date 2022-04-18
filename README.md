@@ -1,6 +1,6 @@
 # Project: Movie Recommender System Using Machine Learning!
 
-<img src="demo/6.jpeg" alt="workflow" width="70%">
+![movie_title](https://user-images.githubusercontent.com/75604769/163835573-52bbb215-2ca0-48ad-b610-57a9aae4750a.jpg)
 
 Recommendation systems are becoming increasingly important in today’s extremely busy world. People are always short on time with the myriad tasks they need to accomplish in the limited 24 hours. Therefore, the recommendation systems are important as they help them make the right choices, without having to expend their cognitive resources.
 
@@ -11,16 +11,16 @@ The purpose of a recommendation system basically is to search for content that w
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 here is a demo,
 
-* [Click here to run it live on server](https://movie-recommeder-system.herokuapp.com/)
+* [App Link](https://movie-recommender7.herokuapp.com/)
 
 
 # Demo:
 
-<img src="demo/1.png" alt="workflow" width="70%">
+![movie1](https://user-images.githubusercontent.com/75604769/163835579-3a4968fd-39f5-4219-b148-fb5cc8c17069.png)
 
-<img src="demo/2.png" alt="workflow" width="70%">
+![movie2](https://user-images.githubusercontent.com/75604769/163835584-89e85a93-8b60-4dee-a559-30e38ebf0c4b.png)
 
-<img src="demo/3.png" alt="workflow" width="70%">
+![movie3](https://user-images.githubusercontent.com/75604769/163835590-75fc2a4f-6e66-46aa-85bf-84d529eb4f86.png)
 
 
 # Dataset has been used:
@@ -35,7 +35,7 @@ here is a demo,
 Clone the repository
 
 ```bash
-https://github.com/entbappy/Movie-Recommender-System-Using-Machine-Learning.git
+https://github.com/dipesg/Movie-Recommendation-System.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
@@ -57,7 +57,7 @@ pip install -r requirements.txt
 ```bash
 #run this file to generate the models
 
-Movie Recommender System Data Analysis.ipynb
+generetingEmbedding.py
 ```
 
 Now run,
@@ -67,9 +67,8 @@ streamlit run app.py
 
 
 ```bash
-Author: Bappy Ahmed
-Data Scientist
-Email: entbappy73@gmail.com
+Author: Dipesh Silwal
+Email: dipeshsilwal31@gmail.com
 
 ```
 
