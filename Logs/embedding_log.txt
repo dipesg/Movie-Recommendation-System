@@ -1,0 +1,1 @@
+2022-04-18/15:16:31		Error occured while running the recommend function. Error:: 'Embedding' object has no attribute 'similarity'

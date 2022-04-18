@@ -1,0 +1,7 @@
+2022-04-18/11:00:03		Error occured while running the concat_all function. Error:: must be str, not list
+2022-04-18/11:09:55		Error occured while running the concat_all function. Error:: Length of values (5) does not match length of index (4806)
+2022-04-18/11:11:13		Error occured while running the concat_all function. Error:: must be str, not list
+2022-04-18/14:36:41		Error occured while running the convert_to_list function!! Error:: 'Process' object has no attribute 'clean'
+2022-04-18/14:36:41		Error occured while running the remove_space function Error:: 'Process' object has no attribute 'clean'
+2022-04-18/14:36:41		Error occured while running the concat_all function. Error:: 'Process' object has no attribute 'clean'
+2022-04-18/14:36:41		Error occured while running the drop_columns function. Error:: 'Process' object has no attribute 'clean'
