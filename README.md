@@ -7,22 +7,17 @@
   * [Overview](#overview)
   * [Demo](#demo)
   * [Architechture](#architechture)
-  * [Motivation](#motivation)
-  * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
-  * [Run](#run)
   * [Directory Tree](#directory-tree)
-  * [Technologies Used](#technologies-used)
-  * [Credits](#credits)
 
-# Overview
+## Overview
 The purpose of a recommendation system basically is to search for content that would be interesting to an individual. Moreover, it involves a number of factors to create personalised lists of useful and interesting content specific to each user/individual. Recommendation systems are Artificial Intelligence based algorithms that skim through all possible options and create a customized list of items that are interesting and relevant to an individual. These results are based on their profile, search/browsing history, what other people with similar traits/demographics are watching, and how likely are you to watch those movies. 
-# About this project:
 
+## About this project:
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 here is a demo,
 
-# Demo:
+## Demo:
 [App Link](https://movie-recommender7.herokuapp.com/)
 
 
@@ -33,21 +28,17 @@ here is a demo,
 
 ![movie3](https://user-images.githubusercontent.com/75604769/163835590-75fc2a4f-6e66-46aa-85bf-84d529eb4f86.png)
 
-# Architechture
+## Architechture
 ![movie-archi](https://user-images.githubusercontent.com/75604769/163920958-f0074e01-6460-41fc-aa5d-84344973f4aa.png)
 
 
-# Motivation
-
-
-
-# Dataset 
+## Dataset 
 
 * [Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 
 
-# Installation
+## Installation
 ### STEPS:
 
 Clone the repository
@@ -58,7 +49,7 @@ https://github.com/dipesg/Movie-Recommendation-System.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n movie python=3.7.10 -y
+conda create -n venv python=3.7 -y
 ```
 
 ```bash
@@ -90,7 +81,7 @@ Email: dipeshsilwal31@gmail.com
 
 ```
 
-### Directory Tree
+## Directory Tree
 ![tree1](https://user-images.githubusercontent.com/75604769/163923235-9d0f1256-13bb-4551-a571-d0fc3ebbd617.png)
 
 
