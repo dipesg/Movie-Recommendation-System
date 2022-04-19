@@ -11,7 +11,6 @@
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
   * [Run](#run)
-  * [Deployment on Heroku](#deployment-on-heroku)
   * [Directory Tree](#directory-tree)
   * [Technologies Used](#technologies-used)
   * [Credits](#credits)
@@ -91,4 +90,8 @@ Email: dipeshsilwal31@gmail.com
 
 ```
 
+### Directory Tree
+![tree1](https://user-images.githubusercontent.com/75604769/163923235-9d0f1256-13bb-4551-a571-d0fc3ebbd617.png)
 
+
+![tree3](https://user-images.githubusercontent.com/75604769/163923667-2bc153bd-1c48-4661-8c77-9fd7376dd80e.png)
