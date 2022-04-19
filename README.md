@@ -15,7 +15,6 @@ The purpose of a recommendation system basically is to search for content that w
 
 ## About this project:
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
-here is a demo,
 
 ## Demo:
 [App Link](https://movie-recommender7.herokuapp.com/)
@@ -86,3 +85,10 @@ Email: dipeshsilwal31@gmail.com
 
 
 ![tree3](https://user-images.githubusercontent.com/75604769/163923667-2bc153bd-1c48-4661-8c77-9fd7376dd80e.png)
+
+
+## Technologies Used
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width=170>](https://streamlit.io/) 
+[<img target="_blank" src="https://numpy.org/images/logo.svg" width=270>](https://numpy.org/)  [<img target="_blank" src="https://pandas.pydata.org/static/img/pandas.svg" width=270>](https://pandas.pydata.org/about/citing.html)
