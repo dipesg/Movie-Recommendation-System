@@ -5,9 +5,9 @@
 ## Table of Content
   
   * [Overview](#overview)
+  * [Demo](#demo)
   * [Architechture](#architechture)
   * [Motivation](#motivation)
-  * [Demo](#demo)
   * [Technical Aspect](#technical-aspect)
   * [Installation](#installation)
   * [Run](#run)
@@ -23,10 +23,10 @@ The purpose of a recommendation system basically is to search for content that w
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 here is a demo,
 
-* [App Link](https://movie-recommender7.herokuapp.com/)
-
-
 # Demo:
+[App Link](https://movie-recommender7.herokuapp.com/)
+
+
 
 ![movie1](https://user-images.githubusercontent.com/75604769/163835579-3a4968fd-39f5-4219-b148-fb5cc8c17069.png)
 
@@ -34,14 +34,17 @@ here is a demo,
 
 ![movie3](https://user-images.githubusercontent.com/75604769/163835590-75fc2a4f-6e66-46aa-85bf-84d529eb4f86.png)
 
+# Architechture
 
-# Dataset has been used:
+
+
+# Dataset 
 
 * [Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 
 
-# How to run?
+# Installation
 ### STEPS:
 
 Clone the repository
