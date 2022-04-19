@@ -35,6 +35,10 @@ here is a demo,
 ![movie3](https://user-images.githubusercontent.com/75604769/163835590-75fc2a4f-6e66-46aa-85bf-84d529eb4f86.png)
 
 # Architechture
+![movie-archi](https://user-images.githubusercontent.com/75604769/163920958-f0074e01-6460-41fc-aa5d-84344973f4aa.png)
+
+
+# Motivation
 
 
 
