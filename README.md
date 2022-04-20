@@ -63,7 +63,7 @@ pip install -r requirements.txt
 
 
 ```bash
-##run this file to generate the models
+##run this file to generate the pickle file.
 
 generetingEmbedding.py
 ```
