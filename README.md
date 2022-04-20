@@ -38,14 +38,14 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 
 ## Installation
-### STEPS:
+#### STEPS:
 
 Clone the repository
 
 ```bash
 https://github.com/dipesg/Movie-Recommendation-System.git
 ```
-### STEP 01- Create a conda environment after opening the repository
+##### STEP 01- Create a conda environment after opening the repository
 
 ```bash
 conda create -n venv python=3.7 -y
@@ -56,14 +56,14 @@ conda activate movie
 ```
 
 
-### STEP 02- install the requirements
+##### STEP 02- install the requirements
 ```bash
 pip install -r requirements.txt
 ```
 
 
 ```bash
-#run this file to generate the models
+##### run this file to generate the models
 
 generetingEmbedding.py
 ```
