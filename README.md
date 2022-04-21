@@ -3,7 +3,7 @@
 
 ![movie_title](https://user-images.githubusercontent.com/75604769/163835573-52bbb215-2ca0-48ad-b610-57a9aae4750a.jpg)
 
-## Table of Content
+### Table of Content
   
   * [Overview](#overview)
   * [Demo](#demo)
@@ -11,13 +11,13 @@
   * [Installation](#installation)
   * [Directory Tree](#directory-tree)
 
-## Overview
+### Overview
 The purpose of a recommendation system basically is to search for content that would be interesting to an individual. Moreover, it involves a number of factors to create personalised lists of useful and interesting content specific to each user/individual. Recommendation systems are Artificial Intelligence based algorithms that skim through all possible options and create a customized list of items that are interesting and relevant to an individual. These results are based on their profile, search/browsing history, what other people with similar traits/demographics are watching, and how likely are you to watch those movies. 
 
-## About this project:
+### About this project:
 This is a streamlit web application that can recommend various kinds of similar movies based on an user interest.
 
-## Demo:
+### Demo:
 [App Link](https://movie-recommender7.herokuapp.com/)
 
 
@@ -28,52 +28,48 @@ This is a streamlit web application that can recommend various kinds of similar 
 
 ![movie3](https://user-images.githubusercontent.com/75604769/163835590-75fc2a4f-6e66-46aa-85bf-84d529eb4f86.png)
 
-## Architechture
+### Architechture
 ![movie-archi](https://user-images.githubusercontent.com/75604769/163920958-f0074e01-6460-41fc-aa5d-84344973f4aa.png)
 
 
-## Dataset 
+### Dataset 
 
 * [Dataset link](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
 
 
 
-## Installation
-#### STEPS:
+### Installation
+STEPS:
 
 Clone the repository
 
 ```bash
 https://github.com/dipesg/Movie-Recommendation-System.git
 ```
-##### STEP 01- Create a conda environment after opening the repository
+Create a conda environment after opening the repository
 
 ```bash
 conda create -n venv python=3.7 -y
 ```
-
+Activate environment
 ```bash
-conda activate movie
+conda activate venv
 ```
 
-
-##### STEP 02- install the requirements
+Install the requirements
 ```bash
 pip install -r requirements.txt
 ```
 
-
+run this file to generate the pickle file.
 ```bash
-##run this file to generate the pickle file.
-
 generetingEmbedding.py
 ```
 
-Now run,
+Now run following command in command prompt to run app
 ```bash
 streamlit run app.py
 ```
-
 
 ```bash
 Author: Dipesh Silwal
@@ -81,14 +77,14 @@ Email: dipeshsilwal31@gmail.com
 
 ```
 
-## Directory Tree
+### Directory Tree
 ![tree1](https://user-images.githubusercontent.com/75604769/163923235-9d0f1256-13bb-4551-a571-d0fc3ebbd617.png)
 
 
 ![tree3](https://user-images.githubusercontent.com/75604769/163923667-2bc153bd-1c48-4661-8c77-9fd7376dd80e.png)
 
 
-## Technologies Used
+### Technologies Used
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
 [<img target="_blank" src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width=200>](https://scikit-learn.org/stable/) [<img target="_blank" src="https://streamlit.io/images/brand/streamlit-logo-secondary-colormark-darktext.svg" width=170>](https://streamlit.io/) 
