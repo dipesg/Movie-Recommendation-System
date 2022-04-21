@@ -46,7 +46,7 @@ Clone the repository
 ```bash
 https://github.com/dipesg/Movie-Recommendation-System.git
 ```
-Create a conda environment after opening the repository
+Create a conda environment after cloning the repository in a particular folder
 
 ```bash
 conda create -n venv python=3.7 -y
